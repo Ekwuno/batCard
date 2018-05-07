@@ -83,7 +83,7 @@ body{
     box-shadow: 4px 18px 20px 4px rgba(0.2,0.2,0.2,0.2);
 }
 #abu h1{
- font-family: 'Skranji', cursive;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  text-decoration: underline;
  text-shadow:0 8px 16px 0 rgba(0,0,0,0.2);
 }
@@ -92,6 +92,10 @@ body{
     text-shadow: 4px 18px 20px 4px rgba(0.2,0.2,0.2,0.2);
 }
  li{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h5{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
